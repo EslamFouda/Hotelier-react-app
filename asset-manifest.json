@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.a2ea59dc.css",
+    "main.js": "/react-gh-pages/static/js/main.fbb34809.js",
+    "static/media/carousel-1.jpg": "/react-gh-pages/static/media/carousel-1.580323fd42819ddb11d9.jpg",
+    "static/media/carousel-2.jpg": "/react-gh-pages/static/media/carousel-2.e67221a5c43968e9ef5d.jpg",
+    "static/media/slick.svg": "/react-gh-pages/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-gh-pages/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-gh-pages/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-gh-pages/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-gh-pages/index.html",
+    "main.a2ea59dc.css.map": "/react-gh-pages/static/css/main.a2ea59dc.css.map",
+    "main.fbb34809.js.map": "/react-gh-pages/static/js/main.fbb34809.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2ea59dc.css",
+    "static/js/main.fbb34809.js"
+  ]
+}
